@@ -1,0 +1,8 @@
+venv/
+venv
+__pycache__/
+*.pyc
+.env
+db/
+*.pdf
+financial_data.db
